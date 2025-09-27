@@ -47,20 +47,9 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 </div>  
 
 **Skills:**
--
-- SQL     <br>
-- Python    <br>
-- Pandas   <br>
-- Spark  <br>
-- GitHub    <br>
-- Docker   <br>
-- Excel    <br>
-- ETL e ELT    <br>
-- Databricks    <br>
-- Fabrick    <br>
-- MongoDB    <br>
+- SQL - Python - Pandas - Spark - GitHub - Docker - Excel
+- ETL e ELT - Databricks - Fabrick - MongoDB
 
-<br> <br> 
 <!-- Social midias -->
 ## Social Mídias
 <div align="left">
@@ -71,5 +60,6 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
+
 
 

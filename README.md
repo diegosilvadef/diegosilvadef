@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-## Hi there 👋
-
-<!--
-**diegosilvadef/diegosilvadef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -179,3 +173,4 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
 >>>>>>> 65efc06 (first commit)
+

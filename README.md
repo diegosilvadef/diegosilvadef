@@ -8,7 +8,7 @@
 <!-- apresentação -->
 ✔ **Formado** em _Enganharia de Software ([Anhanguera](https://www.anhanguera.com/))_ <br>
 ✔ **Pós-Graduando** em _Engenharia de Dados ([Anhanguera](https://posanhangueradados.com.br/?fbclid=PAT01DUANFQANleHRuA2FlbQIxMAABp9q0U5kERV2FvSOoR8a4LFF2H08zKrHefhnT08kYhPDITDoZnE06AmHOJgI5_aem_Dc5Ggvdf77wxluzqxNkQ9Q))_ <br> 
-✔ **Trilha de Estudo** em _Databricks ([DataEngPro](https://queroaprenderdados.com/))_ <br> 
+💥 **Trilha de Estudo** em _Databricks ([DataEngPro](https://queroaprenderdados.com/))_ <br> 
 💥 **_Especializando_** em _Engenharia de Dados ([AprenderDados](https://alunos.aprenderdados.com/invites/xgeXDb/join))_ <br>
 <br>
 
@@ -52,6 +52,7 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href = "mailto:diegosilvacontato1@gmail.com">                             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                                            height="27"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/diego-silvadef/" target="_blank">    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                                   height="27"></a> &nbsp;&nbsp;&nbsp;
 </div>
+
 
 
 

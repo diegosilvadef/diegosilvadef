@@ -46,20 +46,13 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 </div> 
 <br>
 
-**Skills:**
-SQL - Python - Pandas - Spark - GitHub - Docker - Excel
-ETL e ELT - Databricks - Fabrick - MongoDB
-
 <!-- Social midias -->
 ## Social Mídias
 <div align="left">
-  <a href="https://www.youtube.com/@sqldicas" target="_blank">         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"                                         height="27"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/willdeglan" target="_blank">          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"                                 height="27"></a> &nbsp;&nbsp;&nbsp;
-  <a href = "mailto:willdeglan@gmail.com">                             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                                            height="27"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/willdeglan" target="_blank">    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                                   height="27"></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
+  <a href = "mailto:diegosilvacontato1@gmail.com">                             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                                            height="27"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/diego-silvadef/" target="_blank">    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                                   height="27"></a> &nbsp;&nbsp;&nbsp;
 </div>
+
 
 
 

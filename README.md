@@ -60,90 +60,6 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 - Fabrick    <br>
 - MongoDB    <br>
 
-<div align="left"> 
-  <!-- Engenharia de dados DIO -->
- <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/dioEngenhariaDeDados.png" height="60" alt="DataEngineer"> &nbsp;&nbsp;&nbsp;
- <!-- Desenvolvedor Python DIO -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/dioPythonDeveloper.png" height="60" alt="PythonDeveloper"> &nbsp;&nbsp;&nbsp;
- <!-- Infinity BigData -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/InfinityBigData.png" height="50" alt="InfinityBigData"> &nbsp;&nbsp;&nbsp;
- <!-- DatasLightAcademyBranco -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/DatasLightAcademyBranco.png" height="45"">
-    <img alt="DatasLightAcademy" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/DatasLightAcademyPreto.png" height="45"> &nbsp;&nbsp;&nbsp; 
-  </picture>
- <!-- EngenhariadedadosAcademy -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/EngenhariaDeDadosAcademyBranco.png" height="45"">
-    <img alt="EngenhariadedadosAcademy" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/EngenhariaDeDadosAcademyPreto.png" height="45"> &nbsp;&nbsp;&nbsp; 
-  </picture>
- <br> <br> 
-</div>
-
-**Certificações mais relevantes:**
--
-| CERTIFICADORA | DESCRIÇÃO | REFERÊNCIA |
-|---------------|-----------|--------|
-| Microsoft    | Explore modern management                 | MD-101 |
-| Microsoft    |  MTA Database Fundamentals                | 98-364 |
-| Microsoft    | Azure Data Fundamentals                   | DP-900 |
-| Oracle Cloud | Oracle Cloud Infrastructure 2023 Foundations Associate | 1Z0-1085-23 |
-| Certiprof    |Scrum Foundation Professional Certification| SFPC |
-| Databricks   |Databricks Fundamentals                    | 2024 |
-| Databricks   |Generative AI Fundamentals                 | 2024 |
-| Databricks   |Platform Architect GCP                     | 2025 |
-| Databricks   |Platform Architect AWS                     | 2025 |
-| Databricks   |Platform Architect Azure                   | 2025 |
-
-
- <!-- ICONES DAS Certificações -->
-
-<p>
-
-  <a href='#'><img height="96" src="/logos/DatabricksFundamentals.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/DatabricksFundamentals_AI.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/DatabricksPlatformArchitectGCP.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/DatabricksPlatformArchitectAWS.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/DatabricksPlatformArchitectAzure.png"></a>
-  <br>
-
-  
-  <a href='#'><img height="100" src="/logos/MD101.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/MTADatabaseFundamentals2019.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/dp900.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/OCIF2023CA.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="/logos/ScrumFoundation2024.png"></a>  
-</p>
-
-
-<br> <br> 
-
-
-  <!-- ICONES DAS TECNOLOGIAS - ->
-## Minhas Tech Skills
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"                  height="55" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="microsoftsqlserver logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"                      height="55" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"                        height="55" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"                      height="55" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"              height="55" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"                      height="55" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"                        height="55" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"                    height="55" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"                        height="55" alt="putty logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"      height="55" alt="putty logo" />
-</div>
-  <!- - ICONES DAS TECNOLOGIAS -->
-
 <br> <br> 
 <!-- Social midias -->
 ## Social Mídias
@@ -155,4 +71,5 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
+
 

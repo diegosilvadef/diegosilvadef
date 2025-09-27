@@ -15,11 +15,10 @@
 ### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! 
 Aqui armazeno os codigos, scripts e notebooks <br>
 <br>
-<!--
+
 **Experiencia como:**
 - _Analista de Dados_
 - _Assistente de Inteligência de Mercado_
--->
 
   <!-- ICONES DAS TECNOLOGIAS -->
 ### Tech Skills
@@ -44,11 +43,12 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 </picture>
 <!-- DOCKER -->
   <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="46" alt="docker"> &nbsp;
-</div>  
+</div> 
+<br>
 
 **Skills:**
-- SQL - Python - Pandas - Spark - GitHub - Docker - Excel
-- ETL e ELT - Databricks - Fabrick - MongoDB
+SQL - Python - Pandas - Spark - GitHub - Docker - Excel
+ETL e ELT - Databricks - Fabrick - MongoDB
 
 <!-- Social midias -->
 ## Social Mídias
@@ -60,6 +60,7 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
+
 
 
 

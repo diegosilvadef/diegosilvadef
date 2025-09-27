@@ -1,4 +1,4 @@
-# Helow!👋 Diego aqui...  
+# Hello!👋 Diego aqui...  
 <!-- logo SQLDICAS inicio-->
 <img src="/logos/sqlDicas.png"  align="right" width="350px" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
@@ -52,6 +52,7 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href = "mailto:diegosilvacontato1@gmail.com">                             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                                            height="27"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/diego-silvadef/" target="_blank">    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                                   height="27"></a> &nbsp;&nbsp;&nbsp;
 </div>
+
 
 
 

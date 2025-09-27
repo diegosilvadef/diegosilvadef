@@ -1,30 +1,15 @@
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
-# Helow!👋 Willdeglan aqui...
+# Helow!👋 Diego aqui...  
 <!-- logo SQLDICAS inicio-->
 <img src="/logos/sqlDicas.png"  align="right" width="350px" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
-### >> `Engenheiro de Dados e DBA` << <br> 
-
-www.WILLDEGLAN.com.br 
+### >> `Engenheiro/Analista de Dados` << <br> 
 
 <!-- apresentação -->
-✔ **Formado** em _Análise e Desenvolvimento de Sistema ([UNEB](https://www.educaedu-brasil.com/centros/uneb-uniao-educacional-de-brasilia-uni1394))_ <br>
-✔ **Pós-Graduado** em _Banco de Dados ([Unyleya](https://unyleya.edu.br/pos-graduacao-ead/curso/banco-de-dados))_ <br> 
-✔ **Trilha de Estudo** em _Databricks ([DatasLightAcademy](https://www.dataslightacademy.com.br/))_ <br> 
-💥 **_Especializando_** em _Spark & Databricks  ([EngenhariaDeDadosAcademy](https://engenhariadedadosacademy.curseduca.pro/m/courses))_ <br>
-💥 **_Especializando_** em _Engenharia de Dados ([InfinityBigData](https://infinitybigdata.com/))_ <br>
+✔ **Formado** em _Enganharia de Software ([Anhanguera](https://www.anhanguera.com/))_ <br>
+✔ **Pós-Graduando** em _Engenharia de Dados ([Anhanguera](https://posanhangueradados.com.br/?fbclid=PAT01DUANFQANleHRuA2FlbQIxMAABp9q0U5kERV2FvSOoR8a4LFF2H08zKrHefhnT08kYhPDITDoZnE06AmHOJgI5_aem_Dc5Ggvdf77wxluzqxNkQ9Q))_ <br> 
+✔ **Trilha de Estudo** em _Databricks ([DataEngPro](https://queroaprenderdados.com/))_ <br> 
+💥 **_Especializando_** em _Engenharia de Dados ([AprenderDados](https://alunos.aprenderdados.com/invites/xgeXDb/join))_ <br>
 <br>
 
 ### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! 
@@ -32,9 +17,8 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 <br>
 <!--
 **Experiencia como:**
-- _Administrador de Banco de Dados_
-- _Supervisor de Equipe de Suporte_
-- _Tecnico de Suporte de Campo e Remoto_
+- _Analista de Dados_
+- _Assistente de Inteligência de Mercado_
 -->
 
   <!-- ICONES DAS TECNOLOGIAS -->
@@ -171,3 +155,4 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
+

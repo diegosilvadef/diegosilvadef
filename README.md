@@ -62,20 +62,19 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="46" alt="docker"> &nbsp;
 </div>  
 
-**Skills em formação:**
+**Skills:**
 -
- █████████████░░░ - SQL     <br>
- ██████████░░░░░░ - Python    <br>
- █████████░░░░░░░ - Pandas   <br>
- █████████░░░░░░░ - Spark  <br>
- ██████████░░░░░░ - GitHub    <br>
- ██████████░░░░░░ - Docker   <br>
- █████████████░░░ - Excel    <br>
- ███████████░░░░░ - ETL e ELT    <br>
- ███████████░░░░░ - Databricks    <br>
- ███░░░░░░░░░░░░░ - Fabrick    <br>
- ████████░░░░░░░░ - BigQuery    <br>
- ██░░░░░░░░░░░░░░ - MongoDB    <br>
+- SQL     <br>
+- Python    <br>
+- Pandas   <br>
+- Spark  <br>
+- GitHub    <br>
+- Docker   <br>
+- Excel    <br>
+- ETL e ELT    <br>
+- Databricks    <br>
+- Fabrick    <br>
+- MongoDB    <br>
 
 <div align="left"> 
   <!-- Engenharia de dados DIO -->
@@ -172,5 +171,3 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
->>>>>>> 65efc06 (first commit)
-

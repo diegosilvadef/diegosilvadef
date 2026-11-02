@@ -19,30 +19,6 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 - _Analista de Dados_
 - _Assistente de Inteligência de Mercado_
 
-  <!-- ICONES DAS TECNOLOGIAS -->
-### Tech Skills
-  <!-- SQL DICAS -->
-<div align="left">
-  <img src="/logos/sqlDicas.png" height="50" alt="SQLDicas"> &nbsp;
-  <!-- BANCO DE DADOS -->
-  <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="46" alt="Database"> &nbsp;
-    <!-- DATABRICKS -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png" height="46" alt="databricks"> &nbsp;
-    <!-- PYTHON -->
-  <img src="https://banner2.cleanpng.com/20180825/box/kisspng-python-programming-language-computer-programming-c-hanuman-png-transparent-images-free-download-clip-1713948647636.webp" height="46" alt="Python"> &nbsp;
-<!-- PANDAS claro e escuro -->
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoPreto.png" height="46"">
-  <img alt="Pandas" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoBranco.png" height="46"> &nbsp;
-</picture>
-  <!-- SPARK claro e escuro-->
-   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="46"">
-  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="46"> &nbsp;
-</picture>
-<!-- DOCKER -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="46" alt="docker"> &nbsp;
-</div> 
 <br>
 
 <!-- Social midias -->

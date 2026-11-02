@@ -10,10 +10,6 @@
 ✔ **Pós-Graduado** em _Engenharia de Dados ([Anhanguera](https://posanhangueradados.com.br/?fbclid=PAT01DUANFQANleHRuA2FlbQIxMAABp9q0U5kERV2FvSOoR8a4LFF2H08zKrHefhnT08kYhPDITDoZnE06AmHOJgI5_aem_Dc5Ggvdf77wxluzqxNkQ9Q))_ <br> 
 <br>
 
-### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! 
-Aqui armazeno os codigos, scripts e notebooks <br>
-<br>
-
 **Experiencia como:**
 - _Engenheiro de Dados_
 - _Analista de Dados_

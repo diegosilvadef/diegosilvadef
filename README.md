@@ -29,7 +29,7 @@ Aqui armazeno os codigos, scripts e notebooks <br>
     <!-- DATABRICKS -->
   <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png" height="46" alt="databricks"> &nbsp;
     <!-- PYTHON -->
-  <img src="https://banner2.cleanpng.com/20180825/box/kisspng-python-programming-language-computer-programming-c-hanuman-png-transparent-images-free-download-clip-1713948647636.webp" height="46" alt="Python" /> &nbsp;
+  <img src="https://banner2.cleanpng.com/20180825/box/kisspng-python-programming-language-computer-programming-c-hanuman-png-transparent-images-free-download-clip-1713948647636.webp" height="46" alt="Python"> &nbsp;
 <!-- PANDAS claro e escuro -->
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoPreto.png" height="46"">

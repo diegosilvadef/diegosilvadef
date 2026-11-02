@@ -8,7 +8,6 @@
 <!-- apresentação -->
 ✔ **Formado** em _Enganharia de Software ([Unopar]((https://www.unopar.com.br/)))_ <br>
 ✔ **Pós-Graduado** em _Engenharia de Dados ([Anhanguera](https://posanhangueradados.com.br/?fbclid=PAT01DUANFQANleHRuA2FlbQIxMAABp9q0U5kERV2FvSOoR8a4LFF2H08zKrHefhnT08kYhPDITDoZnE06AmHOJgI5_aem_Dc5Ggvdf77wxluzqxNkQ9Q))_ <br> 
-<br>
 
 **Experiencia como:**
 - _Engenheiro de Dados_

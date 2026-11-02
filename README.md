@@ -7,9 +7,7 @@
 
 <!-- apresentação -->
 ✔ **Formado** em _Enganharia de Software ([Unopar]((https://www.unopar.com.br/)))_ <br>
-✔ **Pós-Graduando** em _Engenharia de Dados ([Anhanguera](https://posanhangueradados.com.br/?fbclid=PAT01DUANFQANleHRuA2FlbQIxMAABp9q0U5kERV2FvSOoR8a4LFF2H08zKrHefhnT08kYhPDITDoZnE06AmHOJgI5_aem_Dc5Ggvdf77wxluzqxNkQ9Q))_ <br> 
-💥 **Trilha de Estudo** em _Databricks ([DataEngPro](https://queroaprenderdados.com/))_ <br> 
-💥 **_Especializando_** em _Engenharia de Dados ([AprenderDados](https://alunos.aprenderdados.com/invites/xgeXDb/join))_ <br>
+✔ **Pós-Graduado** em _Engenharia de Dados ([Anhanguera](https://posanhangueradados.com.br/?fbclid=PAT01DUANFQANleHRuA2FlbQIxMAABp9q0U5kERV2FvSOoR8a4LFF2H08zKrHefhnT08kYhPDITDoZnE06AmHOJgI5_aem_Dc5Ggvdf77wxluzqxNkQ9Q))_ <br> 
 <br>
 
 ### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! 
@@ -17,6 +15,7 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 <br>
 
 **Experiencia como:**
+- _Engenheiro de Dados_
 - _Analista de Dados_
 - _Assistente de Inteligência de Mercado_
 
@@ -30,7 +29,7 @@ Aqui armazeno os codigos, scripts e notebooks <br>
     <!-- DATABRICKS -->
   <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png" height="46" alt="databricks"> &nbsp;
     <!-- PYTHON -->
-    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="46" alt="Python"  /> &nbsp;
+  <img src="https://raw.githubusercontent.com/willdeg14n/willdeg14n/main/logos/Python.png" height="46" alt="Python" /> &nbsp;
 <!-- PANDAS claro e escuro -->
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoPreto.png" height="46"">

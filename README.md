@@ -19,8 +19,6 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 - _Analista de Dados_
 - _Assistente de Inteligência de Mercado_
 
-<br>
-
 <!-- Social midias -->
 ## Social Mídias
 <div align="left">
